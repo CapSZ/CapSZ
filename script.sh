@@ -1,6 +1,3 @@
-- Made by 0Effe
-Effe on top niggas
-
 #!/bin/bash
 
 echo "Roblox ultimate 0 day made by 0Effn"
